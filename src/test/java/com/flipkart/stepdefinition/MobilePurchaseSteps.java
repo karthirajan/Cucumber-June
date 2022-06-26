@@ -83,7 +83,7 @@ public class MobilePurchaseSteps extends Commonactions{
 		
 		Assert.assertEquals("BUY NOW", text);
 		
-		driver.quit();
+		//driver.quit();
 
 	    
 	}
